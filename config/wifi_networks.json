@@ -1,0 +1,7 @@
+[
+    {
+        "SSID": "wifi network name",
+        "BSSID": "not trruly needed but i left it here", 
+        "Password": "wifi password"
+    },
+]
